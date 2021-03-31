@@ -1,14 +1,14 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Sajib Hossain"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Sajib"
+last_name : "Hossain"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
 - "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Computer Engineer"
+- "Tech Enthusiast"
 
 # slider background image loop
 slider_images:
@@ -18,7 +18,7 @@ slider_images:
 
 # button
 button:
-  enable : true
+  enable : false
   label : "HIRE ME"
   link : "#contact"
 
