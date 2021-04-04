@@ -14,21 +14,16 @@ experience:
   experience_list:
     # experience item loop
     - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
+      company : "Computer programing club_DIU"
+      duration :"2019"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
-      
+
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Android app development"
+      company : "BITM
+      duration : "2018"
+      content : "Here I taken a proffesional course. I learn many things.. 
+   
 
 ############################### Skill #################################
 skill:
