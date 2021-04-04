@@ -49,8 +49,11 @@ skill:
       
     # skill item loop
     - name : "Noode js"
-      percentage : "70%"
+      percentage : "80%"
 
+    # skill item loop
+    - name : "React"
+      percentage : "80%"
 
 # custom style
 custom_class: "" 
