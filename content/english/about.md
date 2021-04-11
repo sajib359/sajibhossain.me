@@ -15,14 +15,14 @@ experience:
     # experience item loop
     - name : "Web Developer"
       company : "Computer programing club_DIU"
-      duration :"2019"
+      duration : "2019"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
 
     # experience item loop
     - name : "Android app development"
-      company : "BITM
+      company : "BITM"
       duration : "2018"
-      content : "Here I taken a proffesional course. I learn many things.. 
+      content : "Here I taken a proffesional course. I learn many things.."
    
 
 ############################### Skill #################################
