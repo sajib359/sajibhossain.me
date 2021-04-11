@@ -151,18 +151,6 @@ name = "Blog"
 url = "blog"
 weight = 7
 
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright 2021 &copy; Sajib Hossain"
-
-
 ################# english navigation ##################
 
 # main menu
