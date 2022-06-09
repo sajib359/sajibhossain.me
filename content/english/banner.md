@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : false
   label : "HIRE ME"
-  link : "#contact"
+  link : "https://relaxed-ardinghelli-065055.netlify.app/#contact"
 
 
 # custom style
