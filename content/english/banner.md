@@ -6,7 +6,7 @@ last_name : "Hossain"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
+- "Full Stack Web Developer"
 - "Computer Engineer"
 - "Tech Enthusiast"
 
