@@ -2,13 +2,9 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "Full Stack Web Development"
   image : "images/icons/web-development.png"
   
-  
-# service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
   
 # service item loop
 - name : "web Content Development"
