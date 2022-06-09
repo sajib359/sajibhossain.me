@@ -1,8 +1,7 @@
----
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item4.jpg"
-categories: ["database"]
+title: "ManuFacturing industry"
+date: 2022-05-22T12:14:34+06:00
+image: "images/portfolio/item1.jpg"
+categories: ["development"]
 description: "This is meta description."
 draft: false
 project_info:
@@ -11,7 +10,7 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
+  content: "https://manufacturing-industry-d2077.web.app/"
 - name: "New Item"
   icon: "fas fa-globe"
   content: "Add whatever you want"
@@ -20,29 +19,16 @@ project_info:
   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Tailwind, JavaScript, React, MongoDB, Firebase
+This project has an Admin Panel products review home page customized like the manufacturing industry.
+In this project also has a payment gateway you can purchase order and pay your bill
+Here also has a Dashboard admin can add products and make anyone admin and user can their profile and order 
+
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
-
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Technology used: Tailwind, JavaScript, React, MongoDB, Firebase
+This project has an Admin Panel products review home page customized like the manufacturing industry.
+In this project also has a payment gateway you can purchase order and pay your bill
+Here also has a Dashboard admin can add products and make anyone admin and user can their profile and order 
