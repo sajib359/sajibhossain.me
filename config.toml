@@ -131,7 +131,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Project"
 pre = "#"
-url = "Project"
+url = "portfolio"
 weight = 4
 
 
