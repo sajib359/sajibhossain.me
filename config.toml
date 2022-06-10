@@ -129,9 +129,9 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Project"
 pre = "#"
-url = "portfolio"
+url = "Project"
 weight = 4
 
 
