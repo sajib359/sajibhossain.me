@@ -75,13 +75,13 @@ skill:
     - name : "Firebase"
       percentage : "90%"
 ############################### Education #############################
-education:
+experience:
   enable : true
   title : "EDUCATION"
-  education_list:
+  experience_list:
     # education item loop
-    - degree : "Bachelor of Science in Computer Science"
-      institution : "Daffodil International University"
+    - name : "Bachelor of Science in Computer Science"
+      company : "Daffodil International University"
       duration : "2016 - 2020"
       content : "Completed graduation with a focus on web development and information systems."
 
