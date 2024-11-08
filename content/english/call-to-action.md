@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "#contact"
+  link : "https://wa.me/+8801761594197"
 
 
 # custom style
