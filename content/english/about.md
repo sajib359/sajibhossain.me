@@ -18,10 +18,20 @@ experience:
       duration : "september 2021 to present"
       content : "I work with E-commarce and here i can managing site contents and writting blogs here i can learn many things with professional way. "
   # experience item loop
+    - name : "Trainee Assistant Officer"
+      company : "IFIC Bank PLC"
+      duration : "August 2024 to present"
+      content : "I work with all general bank operation."
+     # experience item loop
+    - name : "Executive MIS"
+      company : "Building Technology and Service LTD"
+      duration : "February 2023 to July 2024"
+      content : "I work with E-commarce and here i can managing site contents and writting blogs here i can learn many things with professional way. "
+    # experience item loop
     - name : "Web Content Developer"
       company : "Redgreen Technology Limited"
-      duration : "september 2021 to present"
-      content : "I work with E-commarce and here i can managing site contents and writting blogs here i can learn many things with professional way. "
+      duration : "september 2021 to October 2022"
+      content : "Experienced in developing and implementing computer systems, including databases and software applications, while providing ongoing maintenance and troubleshooting for management information systems MIS. Skilled in data analysis, security management, team leadership, technology upgrades, policy development, procedure standardization, automation, customer support, and documentation to enhance operational efficiency and reporting accuracy."
 
     # experience item loop
     - name : "Web Developer"
