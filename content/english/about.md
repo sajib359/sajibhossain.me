@@ -12,6 +12,11 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
+    # experience item loop
+    - name : "Web Content Developer"
+      company : "Redgreen Technology Limited"
+      duration : "september 2021 to present"
+      content : "I work with E-commarce and here i can managing site contents and writting blogs here i can learn many things with professional way. "
   # experience item loop
     - name : "Web Content Developer"
       company : "Redgreen Technology Limited"
