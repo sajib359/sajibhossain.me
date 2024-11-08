@@ -12,11 +12,6 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
-    # experience item loop
-    - name : "Web Content Developer"
-      company : "Redgreen Technology Limited"
-      duration : "september 2021 to present"
-      content : "I work with E-commarce and here i can managing site contents and writting blogs here i can learn many things with professional way. "
   # experience item loop
     - name : "Trainee Assistant Officer"
       company : "IFIC Bank PLC"
@@ -35,9 +30,9 @@ experience:
 
     # experience item loop
     - name : "Web Developer"
-      company : "Computer programing club_DIU"
+      company : "Programming Hero"
       duration : "2019"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      content : "I learn HTML, CSS, and Javascript, react to create websites and web applications like Personal, Business, Blog, E-comerches etc."
 
     # experience item loop
     - name : "Android app development"
