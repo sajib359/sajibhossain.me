@@ -1,5 +1,5 @@
 ---
-title: "ManuFacturing industry"
+title: "Bluemoon Convention Center"
 date: 2022-05-22T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
 categories: ["development"]
@@ -11,7 +11,7 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://manufacturing-industry-d2077.web.app/"
+  content: "https://bluemoon-cv.netlify.app/"
 - name: "New Item"
   icon: "fas fa-globe"
   content: "Add whatever you want"
@@ -21,15 +21,10 @@ project_info:
 ---
 
 Tailwind, JavaScript, React, MongoDB, Firebase
-This project has an Admin Panel products review home page customized like the manufacturing industry.
-In this project also has a payment gateway you can purchase order and pay your bill
-Here also has a Dashboard admin can add products and make anyone admin and user can their profile and order 
+In this project, I try to Create a Convention Center all-facility Based Web program.
 
 
 
 #### Project Details
 
-Technology used: Tailwind, JavaScript, React, MongoDB, Firebase
-This project has an Admin Panel products review home page customized like the manufacturing industry.
-In this project also has a payment gateway you can purchase order and pay your bill
-Here also has a Dashboard admin can add products and make anyone admin and user can their profile and order 
+Technology used: Tailwind, JavaScript, React
