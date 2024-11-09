@@ -84,4 +84,8 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It’s Sajib, Professional Web Developer. I love to write code, it’s my passion. Now I am working as a Web Content Developer at Redgreen Technology Limited. I want to be a full-stack web developer and I worked on learning full-stack development last year. now I am confident that I have the skills, experience, and ability to create well-functioning web applications. I am working with various programming languages, frameworks, and databases like JavaScript, Tailwind, React, NodeJs, MongoDB, etc.. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Hello! I'm Sajib Hossain, a dedicated full-stack web developer with a Bachelor’s degree in Computer Science and Engineering and over three years of experience in software development. My passion for technology and learning has driven me to continuously evolve my skill set, making me a versatile developer capable of handling diverse project requirements.
+
+Currently, I am advancing my knowledge with an MBA, majoring in Human Resource Management, to expand my expertise in the industry's technical and business aspects. I recently joined IFIC Bank PLC as a Trainee Assistant Officer, a role that has introduced me to the dynamic field of banking and finance. My ultimate goal is to bring my tech skills and business knowledge together by transitioning into an IT Officer role within the banking sector, where I can contribute to developing secure, efficient, and innovative solutions.
+
+I am passionate about technology, a quick learner, and committed to achieving my career ambitions. Whether creating user-friendly web applications or optimizing system processes, I strive to make an impactful difference with every project I undertake. Stay connected with me........😊
